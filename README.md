@@ -1,6 +1,6 @@
-# Lakshm Flora Website
+# Lakshan Flora Website
 
-Lakshm Flora is a responsive flower shop website developed as part of my HND Software Engineering studies.
+Lakshan Flora is a responsive flower shop website developed as part of my HND Software Engineering studies.
 
 ## Project Description
 
